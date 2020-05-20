@@ -1,2 +1,3 @@
-# encryptodon
-Encrypted Mastodon CLI Client
+# 🐘 🔐 encryptodon  
+
+Mastodon CLI client for encrypted DMs.  
