@@ -54,5 +54,5 @@ release:
 
 .PHONY: run
 run:
-	$(GOBUILD) -o $(BINARY_NAME) -v ./...
-	./$(BINARY_NAME)
+	$(GOBUILD) -o bin/$(BINARY_LINUX) -v ./...
+	bin/$(BINARY_LINUX)
